@@ -16,7 +16,7 @@
 <br>
 
 **기획 배경**
-내용채우기
+**<u>내용채우기</u>**
 
 <br>
 
@@ -28,17 +28,24 @@
 
 : 출발지와 도착지 주소를 입력하면 이동 시간을 계산해 줍니다. 혹은 사용자가 직접 이동 시간을 설정할 수 있습니다.
 
+<br>
+
 **🤔 관심있는 카테고리 설정**  
 
 : 약 10개 정도의 카테고리 중 사용자가 관심있는 카테고리를 설정할 수 있습니다. 이 카테고리는 언제든지 변경할 수 있습니다.
+
+<br>
 
 **🎥 카테고리 기반의 재생목록 추출과 영상 재생**  
 
 : 사용자가 설정한 카테고리를 기반으로 손틈새로에 등록된 영상들을 기반으로 재생 목록을 만들고 영상을 재생할 수 있습니다. 영상들은 손틈새로에서 자체 제작되거나 검증된 영상입니다.
 
+<br>
+
 <br><br>
 
 ## 🙋‍♀️ 기대 효과
+**<u>내용채우기</u>**
 <div align="center">
 
 
@@ -47,20 +54,38 @@
 <br><br>
 
 ## 🖼️ 와이어프레임
-<div align="center">
 
-![와이어프레임]()
 
-</div>
+<details>
+  <summary><b>와이어프레임</b></summary>
+  <div markdown="1">
+
+  <div align="center">
+    <img width="1200" alt="1" src="https://github.com/a-minute-society/.github/assets/98332877/cff46a27-0376-4acc-ae77-472cfb5f8f6b">
+    <img width="1200" alt="2" src="https://github.com/a-minute-society/.github/assets/98332877/c3207a42-f0a9-49d1-afbf-9459053c28b1">
+    <img width="1200" alt="3" src="https://github.com/a-minute-society/.github/assets/98332877/3c5604b3-bfc8-4871-a0d6-f25c5b7edf92">
+    <img width="1200" alt="4" src="https://github.com/a-minute-society/.github/assets/98332877/286f813d-1b07-4cfd-9f0f-69657a804b1c">
+    <img width="1200" alt="5" src="https://github.com/a-minute-society/.github/assets/98332877/47336553-c452-40e9-ad5c-ce3f17d356d7">
+    <img width="1200" alt="6" src="https://github.com/a-minute-society/.github/assets/98332877/218fac4c-7829-4607-b6f0-36d0e52bbc2e">
+  </div>
+  </div>
+</details>
 
 <br><br>
 
 ## 🎨 디자인
-<div align="center">
+<details>
+  <summary><b>디자인</b></summary>
+  <div markdown="1">
 
-![디자인]()
-
-</div>
+  <div align="center">
+    <img width="341" alt="1" src="https://github.com/a-minute-society/.github/assets/98332877/7cbcd7b9-aef0-4158-82e7-973d1be55a78"><br>
+    <img width="561" alt="2" src="https://github.com/a-minute-society/.github/assets/98332877/35bddb62-95fd-4a2b-a6e5-8776fd8a57c5"><br>
+    <img width="365" alt="3" src="https://github.com/a-minute-society/.github/assets/98332877/5f415cc8-4718-4e1d-a612-d0523c322cb9"><br>
+    <img width="683" alt="4" src="https://github.com/a-minute-society/.github/assets/98332877/16db0d5a-cb41-4019-8ecc-3c55da6be638">
+  </div>
+  </div>
+</details>
 
 <br><br>
 
