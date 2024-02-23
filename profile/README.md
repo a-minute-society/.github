@@ -131,9 +131,10 @@
 
 <div align="center">
 
-  ![서비스 구조도](https://github.com/a-minute-society/.github/assets/98332877/0964669c-647e-4ee0-82c8-c5ecc60e7ac0)
+  ![구조도](https://github.com/a-minute-society/.github/assets/98332877/b3177577-0cc2-49d1-b6a1-4e4fbb070385)
 
 </div>
+
 
 <br>
 
