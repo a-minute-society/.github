@@ -127,6 +127,19 @@
 
 <br><br>
 
+## 🧬 구조도
+
+<div align="center">
+
+  ![서비스 구조도](https://github.com/a-minute-society/.github/assets/98332877/0964669c-647e-4ee0-82c8-c5ecc60e7ac0)
+
+</div>
+
+<br>
+
+
+<br><br>
+
 ## 👻 팀원
 <table>
   <tr> 
