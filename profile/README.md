@@ -88,7 +88,7 @@
 
 ## 🤖 레파지토리
 ✨ **프론트엔드** : [front repository](https://github.com/a-minute-society/front-end)<br>
-✨ **백엔드** : [back repository](https://github.com/a-minute-society/back-end) (배포용 repository는 비공개입니다.)
+✨ **백엔드** : [back repository](https://github.com/a-minute-society/back-end-deploy)
 
 <br><br>
 
